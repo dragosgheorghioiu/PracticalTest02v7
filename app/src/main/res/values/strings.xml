@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PracticalTest02</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Minute</string>
+
+    <string-array name="spinner_values">
+        <item>set</item>
+        <item>reset</item>
+        <item>poll</item>
+    </string-array>
 </resources>
